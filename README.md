@@ -25,19 +25,7 @@ I am open to collaborating on projects related to Android development, BLE appli
 
 I'm always interested in connecting with fellow developers, potential collaborators, or anyone who shares similar interests. You can reach me through the following channels:
 
-- Email: rajeev.220077@gmail.com
-- LinkedIn: [Your LinkedIn Profile Link]
-- Twitter: [Your Twitter Profile Link]
-- GitHub: [Your GitHub Profile Link]
+Email: rajeev.220077@gmail.com
 
 Feel free to explore the repositories on my GitHub profile to find my past projects and code samples. Don't hesitate to get in touch if you have any questions or want to collaborate on something exciting. Looking forward to connecting with you!
-    <div class="static-txt">I'm a</div>
-    <ul class="dynamic-txts">
-      <li><span>YouTuber</span></li>
-      <li><span>Designer</span></li>
-      <li><span>Developer</span></li>
-      <li><span>Freelancer</span></li>
-    </ul>
-  </div>
-</body>
-</html>
+   
