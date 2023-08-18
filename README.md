@@ -26,8 +26,41 @@ I am open to collaborating on projects related to Android development, BLE appli
 I'm always interested in connecting with fellow developers, potential collaborators, or anyone who shares similar interests. You can reach me through the following channels:
 
 - Email: rajeev.220077@gmail.com
-- LinkedIn:
-- Twitter:
-- GitHub:
+- LinkedIn: [Your LinkedIn Profile Link]
+- Twitter: [Your Twitter Profile Link]
+- GitHub: [Your GitHub Profile Link]
 
 Feel free to explore the repositories on my GitHub profile to find my past projects and code samples. Don't hesitate to get in touch if you have any questions or want to collaborate on something exciting. Looking forward to connecting with you! 😄
+
+## Fun Animation
+
+Check out this cool text typing animation I found:
+
+```html
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Multiple Texts Typing Animation | CodingNepal</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+    /* Rest of your CSS styles here */
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="static-txt">I'm a</div>
+    <ul class="dynamic-txts">
+      <li><span>YouTuber</span></li>
+      <li><span>Designer</span></li>
+      <li><span>Developer</span></li>
+      <li><span>Freelancer</span></li>
+    </ul>
+  </div>
+</body>
+</html>
