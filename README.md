@@ -30,30 +30,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 - Twitter: [Your Twitter Profile Link]
 - GitHub: [Your GitHub Profile Link]
 
-Feel free to explore the repositories on my GitHub profile to find my past projects and code samples. Don't hesitate to get in touch if you have any questions or want to collaborate on something exciting. Looking forward to connecting with you! 😄
-
-## Fun Animation
-
-Check out this cool text typing animation I found:
-
-```html
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Multiple Texts Typing Animation | CodingNepal</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
-    /* Rest of your CSS styles here */
-  </style>
-</head>
-<body>
-  <div class="wrapper">
+Feel free to explore the repositories on my GitHub profile to find my past projects and code samples. Don't hesitate to get in touch if you have any questions or want to collaborate on something exciting. Looking forward to connecting with you!
     <div class="static-txt">I'm a</div>
     <ul class="dynamic-txts">
       <li><span>YouTuber</span></li>
