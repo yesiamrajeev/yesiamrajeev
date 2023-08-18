@@ -1,6 +1,7 @@
 ![68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f](https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/2368fa0f-6b3f-4c33-8e65-91b82785e85c)
 
-# 👋 Hi, I’m Rajeev Kumar Behera
+# 👋 Hi, I’m Rajeev Kumar Behera <img src="https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/36fae27d-aea9-4119-9bf8-de1a2b363a9e" alt="Circular Trimmed Photo" style="width: 4%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
+
 
 Welcome to my GitHub profile! I'm Rajeev Kumar Behera, a passionate developer with expertise in various programming languages and technologies. I have experience in creating Android applications, working with Bluetooth Low Energy (BLE), developing custom dictionaries, and working on image processing, segmentation, and Content-Based Image Retrieval (CBIR). Below, you'll find a brief overview of my interests, current learning goals, and how to get in touch with me.
 
