@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Rajeev Kumar Behera, a passionate developer wi
 
 - Android app development: I love creating innovative and user-friendly Android applications that solve real-world problems.
 - BLE and IoT: Exploring the world of Bluetooth Low Energy and its applications in the Internet of Things (IoT) excites me.
-- Image processing: I enjoy working with images, applying various algorithms for segmentation and content-based retrieval.
+- Image processing: I enjoy working with images, and applying various algorithms for segmentation and content-based retrieval.
 - Web development: I have a keen interest in web technologies, including HTML, CSS, JavaScript, Node.js, and cloud computing with Google Cloud Platform.
 
 ## 🌱 I’m currently learning
