@@ -22,7 +22,7 @@ As a developer, I believe in continuous learning and staying updated with the la
 
 ## 💞️ I’m looking to collaborate on
 
-I am open to collaborating on projects related to Android development, BLE applications, image processing, and any exciting projects involving web development. If you have any interesting ideas or projects, feel free to reach out to me!
+I am open to collaborating on projects related to Android development, BLE applications, image processing, and any exciting projects involving web development. If you have any interesting ideas or projects, feel free to contact me!
 
 ## 📫 How to reach me
 
