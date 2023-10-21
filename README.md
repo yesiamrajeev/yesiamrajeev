@@ -1,34 +1,65 @@
 ![68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f](https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/2368fa0f-6b3f-4c33-8e65-91b82785e85c)
 
-# 👋 Hi, I’m Rajeev Kumar Behera <img src="https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/36fae27d-aea9-4119-9bf8-de1a2b363a9e" alt="Circular Trimmed Photo" style="width: 5%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
+# Hi, I'm Rajeev Kumar Behera <img src="https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/36fae27d-aea9-4119-9bf8-de1a2b363a9e" alt="Circular Trimmed Photo" style="width: 5%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
 
+Welcome to my GitHub profile! I'm a passionate developer with expertise in various programming languages and technologies.
 
-Welcome to my GitHub profile! I'm Rajeev Kumar Behera, a passionate developer with expertise in various programming languages and technologies. I have experience in creating Android applications, working with Bluetooth Low Energy (BLE), developing custom dictionaries, and working on image processing, segmentation, and Content-Based Image Retrieval (CBIR). Below, you'll find a brief overview of my interests, current learning goals, and how to get in touch with me.
+## 👨‍💻 About Me
 
-## 👀 I’m interested in
+I specialize in Android app development, Bluetooth Low Energy (BLE), image processing, and web development. My interests lie in creating innovative Android applications, exploring IoT applications of BLE, working with image processing algorithms, and delving into web technologies.
 
-- Android app development: I love creating innovative and user-friendly Android applications that solve real-world problems.
-- BLE and IoT: Exploring the world of Bluetooth Low Energy and its applications in the Internet of Things (IoT) excites me.
-- Image processing: I enjoy working with images, and applying various algorithms for segmentation and content-based retrieval.
-- Web development: I have a keen interest in web technologies, including HTML, CSS, JavaScript, Node.js, and cloud computing with Google Cloud Platform.
+## 🌱 Learning Goals
 
-## 🌱 I’m currently learning
-
-As a developer, I believe in continuous learning and staying updated with the latest technologies. Presently, I am focusing on the following:
+I'm committed to continuous learning and keeping up with the latest technologies. Currently, I'm focused on:
 
 - Advanced Android development techniques and architectures.
-- Cloud computing and leveraging Google Cloud Platform services for scalable and efficient solutions.
+- Leveraging Google Cloud Platform services for scalable solutions.
 - Deepening my knowledge of image processing algorithms and computer vision.
 
-## 💞️ I’m looking to collaborate on
+## 💼 Collaboration
 
-I am open to collaborating on projects related to Android development, BLE applications, image processing, and any exciting projects involving web development. If you have any interesting ideas or projects, feel free to contact me!
+I'm open to collaborating on projects related to:
 
-## 📫 How to reach me
+- Android app development
+- BLE applications
+- Image processing
+- Web development
+
+If you have interesting ideas or projects, feel free to reach out!
+
+## 🚀 Skills and Achievements
+
+- **Skills**: Android development, BLE, image processing, web technologies, cloud computing with Google Cloud Platform.
+- **Achievements**: Mention any notable achievements, certifications, or awards.
+
+## 📊 GitHub Stats
+
+- GitHub Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yesiamrajeev)](https://github.com/DenverCoder1/github-readme-streak-stats)
+- Highest Streak: ![Highest Streak](https://img.shields.io/badge/Highest%20Streak-65-success)
+- Badges: [![Badges](https://badgen.net/badge/Badges/Achievements/blue)](https://github.com/your-profile)
+- GitHub Trophies: [![Trophies](https://github-profile-trophy.vercel.app/?username=yesiamrajeev)](https://github.com/ryo-ma/github-profile-trophy)
+- GitHub Activity: [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=yesiamrajeev&bg_color=ffffff&color=0e76a8&line=8f9ea5&point=24292e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- Achievements Earned: ![Achievements Earned](https://img.shields.io/badge/Achievements%20Earned-7-brightgreen)
+
+
+## 💬 Languages and Technologies
+
+![Java](https://img.shields.io/badge/Java-Proficient-orange)
+![Python](https://img.shields.io/badge/Python-Intermediate-green)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-brightgreen)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Intermediate-blue)
+![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-Advanced-blueyellow)
+![Android Java](https://img.shields.io/badge/Android%20Java-Advanced-purple)
+![Kotlin](https://img.shields.io/badge/Kotlin-Proficient-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
+![HTML](https://img.shields.io/badge/HTML-Proficient-red)
+![CSS](https://img.shields.io/badge/CSS-Proficient-blueviolet)
+
+
+## 📫 Contact Me
 
 I'm always interested in connecting with fellow developers, potential collaborators, or anyone who shares similar interests. You can reach me through the following channels:
 
-Email: rajeev.220077@gmail.com
+- Email: [rajeev.220077@gmail.com](mailto:rajeev.220077@gmail.com)
 
-Feel free to explore the repositories on my GitHub profile to find my past projects and code samples. Don't hesitate to get in touch if you have any questions or want to collaborate on something exciting. Looking forward to connecting with you!
-   
+Feel free to explore my GitHub repositories to find past projects and code samples. Don't hesitate to get in touch if you have any questions or want to collaborate on something exciting. Looking forward to connecting with you!
