@@ -38,7 +38,7 @@ If you have interesting ideas or projects, feel free to reach out!
 - Highest Streak: ![Highest Streak](https://img.shields.io/badge/Highest%20Streak-65-success)
 - Badges: [![Badges](https://badgen.net/badge/Badges/Achievements/blue)](https://github.com/your-profile)
 - GitHub Trophies: [![Trophies](https://github-profile-trophy.vercel.app/?username=yesiamrajeev)](https://github.com/ryo-ma/github-profile-trophy)
-- GitHub Activity: [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=yesiamrajeev&bg_color=ffffff&color=0e76a8&line=8f9ea5&point=24292e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- GitHub Activity: [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesiamrajeev&bg_color=140123&color=6d24c6&line=000000&point=a400f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - Achievements Earned: ![Achievements Earned](https://img.shields.io/badge/Achievements%20Earned-7-brightgreen)
 
 
