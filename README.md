@@ -33,8 +33,8 @@ If you have interesting ideas or projects, feel free to reach out!
 - **Achievements**: Mention any notable achievements, certifications, or awards.
 
 ## 📊 GitHub Stats
-
-- GitHub Streak: [![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)](https://git.io/streak-stats)
+- GitHub Streak:
+- [![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)](https://git.io/streak-stats)
 - Highest Streak: ![Highest Streak](https://img.shields.io/badge/Highest%20Streak-65-success)
 - Badges: [![Badges](https://badgen.net/badge/Badges/Achievements/blue)](https://github.com/your-profile)
 - GitHub Trophies: [![Trophies](https://github-profile-trophy.vercel.app/?username=yesiamrajeev)](https://github.com/ryo-ma/github-profile-trophy)
