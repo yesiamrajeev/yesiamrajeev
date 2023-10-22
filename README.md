@@ -65,11 +65,12 @@ I'm open to collaborating on projects related to:
 If you have interesting ideas or projects, feel free to reach out!
 
 ## 🚀 Skills and Achievements
-**Skills**: Android development, BLE, image processing, web technologies, cloud computing with Google Cloud Platform, OpenCV, pandas, Flask, scikit-learn, Firebase, MySQL, Node.js.
-**Achievements**:
--Winner of the Geek-a-Thon organized by IIIT(Bhubaneswar) and GeeksforGeeks.
--Winner of the Symposium organized by ITER(SOA University).
--Finalist in several hackathons, including Nirman 2.0 Silicon and Innovate Odisha in Nalanda.
+**Skills**: Android development, BLE, image processing, web technologies, cloud computing with Google Cloud Platform, OpenCV, pandas, Flask, scikit-learn, Firebase, MySQL, Node.js.<br>
+
+**Achievements**:<br>
+-Winner of the Geek-a-Thon organized by IIIT(Bhubaneswar) and GeeksforGeeks. <br>
+-Winner of the Symposium organized by ITER(SOA University). <br>
+-Finalist in several hackathons, including Nirman 2.0 Silicon and Innovate Odisha in Nalanda. <br>
 
 ## 📊 GitHub Status
 - GitHub Streak: <br> [![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)](https://git.io/streak-stats)
