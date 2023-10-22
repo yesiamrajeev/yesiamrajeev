@@ -41,18 +41,7 @@ If you have interesting ideas or projects, feel free to reach out!
 
 
 ## 💬 Languages and Technologies
-
-![Java](https://img.shields.io/badge/Java-Proficient-orange)
-![Python](https://img.shields.io/badge/Python-Intermediate-green)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-brightgreen)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Intermediate-blue)
-![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-Advanced-blueyellow)
-![Android Java](https://img.shields.io/badge/Android%20Java-Advanced-purple)
-![Kotlin](https://img.shields.io/badge/Kotlin-Proficient-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
-![HTML](https://img.shields.io/badge/HTML-Proficient-red)
-![CSS](https://img.shields.io/badge/CSS-Proficient-blueviolet)
-
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,py,vscode,powershell,kotlin,figma,java,gcp,flask,vscode,jquery,github,git,firebase,eclipse,c,js,html,css,wasm)](https://skillicons.dev)
 
 ## 📫 Contact Me
 
