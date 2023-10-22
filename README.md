@@ -28,25 +28,28 @@ I'm open to collaborating on projects related to:
 
 If you have interesting ideas or projects, feel free to reach out!
 
-## 🚀 Skills and Achievements
-
-- **Skills**: Android development, BLE, image processing, web technologies, cloud computing with Google Cloud Platform.
-- **Achievements**: Mention any notable achievements, certifications, or awards.
+##🚀 Skills and Achievements
+**Skills**: Android development, BLE, image processing, web technologies, cloud computing with Google Cloud Platform, OpenCV, pandas, Flask, scikit-learn, Firebase, MySQL, Node.js.
+**Achievements**:
+-Winner of the Geek-a-Thon organized by IIIT(Bhubaneswar) and GeeksforGeeks.
+-Winner of the Symposium organized by ITER(SOA University).
+-Finalist in several hackathons, including Nirman 2.0 Silicon and Innovate Odisha in Nalanda.
 
 ## 📊 GitHub Status
 - GitHub Streak: <br> [![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)](https://git.io/streak-stats)
 - GitHub Trophies: [![trophy](https://github-profile-trophy.vercel.app/?username=yesiamrajeev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - GitHub Activity: [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesiamrajeev&bg_color=140123&color=6d24c6&line=000000&point=a400f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-- Achievements Earned: ![Achievements Earned](https://img.shields.io/badge/Achievements%20Earned-7-brightgreen)
 
 
 ## 💬 Languages and Technologies
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,py,vscode,powershell,kotlin,figma,java,gcp,flask,vscode,jquery,github,git,firebase,eclipse,c,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,py,vscode,powershell,kotlin,figma,java,gcp,flask,vscode,jquery,github,git,firebase,eclipse,c,js,html,css)](https://skillicons.dev)
 
 ## 📫 Contact Me
 
 I'm always interested in connecting with fellow developers, potential collaborators, or anyone who shares similar interests. You can reach me through the following channels:
 
 - Email: [rajeev.220077@gmail.com](mailto:rajeev.220077@gmail.com)
+- Discord: [dis](rajeevkumarbehera)
+- Linkedin: [lk](https://www.linkedin.com/in/rajeev-kumar-behera-36403428b/)
 
 Feel free to explore my GitHub repositories to find past projects and code samples. Don't hesitate to get in touch if you have any questions or want to collaborate on something exciting. Looking forward to connecting with you!
