@@ -61,7 +61,7 @@ I'm open to collaborating on projects related to:
 - BLE applications
 - Image processing
 - Web development
-- 
+  
 If you have interesting ideas or projects, feel free to reach out!
 
 ## 🚀 Skills and Achievements
