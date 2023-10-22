@@ -36,8 +36,6 @@ If you have interesting ideas or projects, feel free to reach out!
 ## 📊 GitHub Stats
 - GitHub Streak:
 - [![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)](https://git.io/streak-stats)
-- Highest Streak: ![Highest Streak](https://img.shields.io/badge/Highest%20Streak-65-success)
-- Badges: [![Badges](https://badgen.net/badge/Badges/Achievements/blue)](https://github.com/your-profile)
 - GitHub Trophies: [![trophy](https://github-profile-trophy.vercel.app/?username=yesiamrajeev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - GitHub Activity: [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesiamrajeev&bg_color=140123&color=6d24c6&line=000000&point=a400f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - Achievements Earned: ![Achievements Earned](https://img.shields.io/badge/Achievements%20Earned-7-brightgreen)
