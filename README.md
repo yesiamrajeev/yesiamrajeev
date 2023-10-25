@@ -16,7 +16,7 @@ I'm committed to continuous learning and keeping up with the latest technologies
 - Advanced Android development techniques and architectures.
 - Leveraging Google Cloud Platform services for scalable solutions.
 - Deepening my knowledge of image processing algorithms and computer vision.
-## 💬 Languages and Technologies
+## 💬 Languages and Technologies:
 <div align="center">
 	<table>
 		<tr>
