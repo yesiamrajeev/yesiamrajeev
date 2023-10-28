@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in vario
 ## 👨‍💻 About Me:
 I specialize in Android app development, Bluetooth Low Energy (BLE), image processing, and web development. My interests lie in creating innovative Android applications, exploring IoT applications of BLE, working with image processing algorithms, and delving into web technologies.
 
-## 🌱 Learning Goals
+## 🌱 Learning Goals:
 
 I'm committed to continuous learning and keeping up with the latest technologies. Currently, I'm focused on:
 
