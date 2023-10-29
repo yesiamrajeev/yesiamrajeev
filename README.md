@@ -53,7 +53,7 @@ I'm committed to continuous learning and keeping up with the latest technologies
 </div>
 
 
-## 💼 Collaboration
+## 💼 Collaboration:
 
 I'm open to collaborating on projects related to:
 
