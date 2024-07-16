@@ -4,7 +4,7 @@
 # Hi, I'm <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=8742F5&background=1E27DC00&random=false&width=435&lines=Rajeev+kumar+Behera;Android+Developer+;Java+Developer+;Web+Developer+;Python+Developer+)](https://git.io/typing-svg) <img src="https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/36fae27d-aea9-4119-9bf8-de1a2b363a9e" alt="Circular Trimmed Photo" style="width: 5%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in various programming languages and technologies.
-https://rajeevbehera28.netlify.app/
+https://rajeev28.me/
 
 ## 👨‍💻 About Me:
 I specialize in Android app development, Bluetooth Low Energy (BLE), image processing, and web development. My interests lie in creating innovative Android applications, exploring IoT applications of BLE, working with image processing algorithms, and delving into web technologies.
