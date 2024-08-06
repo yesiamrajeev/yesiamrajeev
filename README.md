@@ -84,17 +84,15 @@ If you have interesting ideas or projects, feel free to reach out!
 ## 🎓 Education
 **Bachelor's in Technology**
 - **SOA University**  
-  Currently pursuing a Bachelor's degree in Computer Science. CGPA: 7.16  
+  Currently pursuing a Bachelor's degree in Computer Science.
   (2021/10 – present, Bhubaneswar, India)
 
 **Intermediate**
 - **Kendriya Vidyalaya Kandhamal**  
-  Achieved 74% from CBSE Board  
   (2019/06 – 2021/07, Kandhamal, India)
 
 **Matriculation**
 - **Kendriya Vidyalaya Kandhamal**  
-  Achieved 74% from CBSE Board  
   (2018/01 – 2019/05, Kandhamal, India)
 
 ## 💼 Professional Experience
