@@ -1,10 +1,11 @@
 ![68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f](https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/2368fa0f-6b3f-4c33-8e65-91b82785e85c)
 
 
-# Hi, I'm <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=8742F5&background=1E27DC00&random=false&width=435&lines=Rajeev+kumar+Behera;Android+Developer+;Java+Developer+;Web+Developer+;Python+Developer+)](https://git.io/typing-svg) <img src="https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/36fae27d-aea9-4119-9bf8-de1a2b363a9e" alt="Circular Trimmed Photo" style="width: 5%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
+# Hi, I'm <br> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=8742F5&background=1E27DC00&random=false&width=435&lines=Rajeev+kumar+Behera;Android+Developer+;Java+Developer+;Web+Developer+;Python+Developer+)
+<img src="https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/36fae27d-aea9-4119-9bf8-de1a2b363a9e" alt="Circular Trimmed Photo" style="width: 5%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in various programming languages and technologies.
-https://rajeev28.me/
+Welcome to my GitHub profile! I'm a passionate developer with expertise in various programming languages and technologies. <br>
+You can check out my [**portfolio**](https://rajeev28.me/).
 
 # Rajeev Kumar Behera
 
@@ -126,9 +127,9 @@ Engineered a dictionary application using MIT App Inventor, creating a comprehen
 - Google Cloud Skill Badges
 
 ## 📊 GitHub Status
-- GitHub Streak: <br> [![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)](https://git.io/streak-stats)
-- GitHub Trophies: [![trophy](https://github-profile-trophy.vercel.app/?username=yesiamrajeev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- GitHub Activity: [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesiamrajeev&bg_color=140123&color=6d24c6&line=000000&point=a400f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- GitHub Streak: <br> ![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)
+- GitHub Trophies: ![trophy](https://github-profile-trophy.vercel.app/?username=yesiamrajeev&theme=onedark)
+- GitHub Activity: ![yesiamrajeev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesiamrajeev&bg_color=140123&color=6d24c6&line=000000&point=a400f0&area=true&hide_border=true)
 
 
 ## 📫 Contact Me
