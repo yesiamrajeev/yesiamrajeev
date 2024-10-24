@@ -150,3 +150,6 @@ I'm always interested in connecting with fellow developers, potential collaborat
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yesiamrajeev&label=Profile%20views&color=0e75b6&style=flat" alt="yesiamrajeev" /> </p>
+
