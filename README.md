@@ -131,6 +131,7 @@ Engineered a dictionary application using MIT App Inventor, creating a comprehen
 - GitHub Trophies: ![trophy](https://github-profile-trophy.vercel.app/?username=yesiamrajeev&theme=onedark)
 - GitHub Activity: ![yesiamrajeev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesiamrajeev&bg_color=140123&color=6d24c6&line=000000&point=a400f0&area=true&hide_border=true)
 
+[![An image of @yesiamrajeev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yesiamrajeev)](https://holopin.io/@yesiamrajeev)
 
 ## 📫 Contact Me
 
