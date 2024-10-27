@@ -82,54 +82,21 @@ If you have interesting ideas or projects, feel free to reach out!
 - **Symposium 2023 Winner:** Achieved 1st position in the Symposium 2023 organized by ITER, competing against peers and showcasing advanced skills and knowledge.
 - **Hackathon Finalist:** Nirman 2.0 by Silicon Institute, Innovate Odisha by NIT (Bhubaneswar), Smart India Hackathon, and Ideathon 2023 by ITER.
 
-## 🎓 Education
-**Bachelor's in Technology**
-- **SOA University**  
-  Currently pursuing a Bachelor's degree in Computer Science.
-  (2021/10 – present, Bhubaneswar, India)
-
-**Intermediate**
-- **Kendriya Vidyalaya Kandhamal**  
-  (2019/06 – 2021/07, Kandhamal, India)
-
-**Matriculation**
-- **Kendriya Vidyalaya Kandhamal**  
-  (2018/01 – 2019/05, Kandhamal, India)
-
-## 💼 Professional Experience
-
-**Leading App Development: Google DSC (Developer Students Club)**  
-Collaborated with cross-functional teams to design, code, and implement innovative solutions, achieving a 30% increase in efficiency and delivering impactful results through agile development practices.  
-(2023/09 – present)
-
-**Founded and Currently Leading: Checkmate Club (Chess Club in ITER)**  
-Fostered a community of chess enthusiasts through interactive sessions and workshops, growing the group to over 50 members.  
-(2022/01 – present)
-
-## 🏆 Projects
-
-**Sentinex**  
-Developed a community-driven safety platform using Java, AndroidX, Android SDK, Firebase, and Figma, enhancing neighborhood safety and connectivity within a 10 km radius.
-
-**Yatra360**  
-Introduced an advanced indoor navigation system in Travel & Tourism using Java, AndroidX, Android SDK, OpenCV, Numpy, and Firebase, enhancing the tourist experience by 30%.
-
-**BLE Scanner**  
-Created a prototype Android app for scanning nearby Bluetooth devices with Java, AndroidX, Android SDK, and BLETech, achieving 73% accuracy in listing scanned devices.
-
-**Dictionary Application**  
-Engineered a dictionary application using MIT App Inventor, creating a comprehensive platform for easy and intuitive word lookup.
-
-## 🎓 Certificates
-- Geek-O-Thon
-- ML Bootcamp
-- ITER Symposium 2023
-- Google Cloud Skill Badges
-
 ## 📊 GitHub Status
 - GitHub Streak: <br> ![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)
 - GitHub Trophies: ![trophy](https://github-profile-trophy.vercel.app/?username=yesiamrajeev&theme=onedark)
-- GitHub Activity: ![yesiamrajeev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesiamrajeev&bg_color=140123&color=6d24c6&line=000000&point=a400f0&area=true&hide_border=true)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesiamrajeev&theme=github_dark" width="100%"/><br>
+  
+  <table >
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesiamrajeev&theme=github_dark&utcOffset=8" width="100%"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yesiamrajeev&theme=github_dark" width="100%"/></td>
+    </tr>
+  </table>
+</div>
+
 
 [![An image of @yesiamrajeev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yesiamrajeev)](https://holopin.io/@yesiamrajeev)
 
